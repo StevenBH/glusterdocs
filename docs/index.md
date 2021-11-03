@@ -1,4 +1,4 @@
-# GlusterFS Documentation
+# GlusterFS Documentation （GlusterFS 文档）
 
 GlusterFS is a scalable network filesystem
 suitable for data-intensive tasks such as cloud storage and media streaming.
